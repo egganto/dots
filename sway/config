@@ -224,7 +224,8 @@ include '$(/usr/libexec/sway/layered-include "/usr/share/sway/config.d/*.conf" "
 
 # Gaps
 gaps inner 10
-gaps outer 10
+gaps outer 4
 
 # Window border
-default_border pixel 0
+default_border pixel 2
+client.focused "#4c3516" "#4c3516" "#4c3516" "#4c3516"
