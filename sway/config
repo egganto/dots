@@ -229,3 +229,7 @@ gaps outer 4
 # Window border
 default_border pixel 2
 client.focused "#4c3516" "#4c3516" "#4c3516" "#4c3516"
+
+# Font
+font "JetBrains Nerd Font Mono" 12
+
