@@ -1,5 +1,5 @@
 # dots
-[JetBrains Mono](https://github.com/JetBrains/JetBrainsMono#manual-installation)
+[JetBrains Mono](https://github.com/ryanoasis/nerd-fonts/releases/download/v2.3.3/JetBrainsMono.zip)
 
 ### [Sway Configuration](https://github.com/swaywm/sway/wiki#configuration)
 Copy the sample configuration file from `/etc/sway/config` to `~/.config/sway/` and start editing.
