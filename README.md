@@ -5,6 +5,7 @@
 Copy the sample configuration file from `/etc/sway/config` to `~/.config/sway/` and start editing.
 Run `man 5 sway` for configuration file and commands manual.
 - [waybar](https://github.com/Alexays/Waybar)
+- [swaync](https://github.com/ErikReider/SwayNotificationCenter) (sway notification center)
 
 ### [Alacritty](https://wiki.archlinux.org/title/Alacritty)
 - [alacritty-theme](https://github.com/alacritty/alacritty-theme)

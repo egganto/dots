@@ -233,3 +233,8 @@ client.focused "#4c3516" "#4c3516" "#4c3516" "#4c3516"
 # Font
 font "JetBrains Nerd Font Mono" 12
 
+# Notification Daemon
+exec swaync
+
+# Toggle control center
+bindsym $mod+Shift+n exec swaync-client -t -sw
