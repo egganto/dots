@@ -2,12 +2,11 @@
  * vim: ft=less
  */
 
-@define-color cc-bg rgba(76, 53, 22, 0.7);
-
-@define-color noti-border-color rgba(255, 255, 255, 0.15);
-@define-color noti-bg rgb(247, 185, 94);
-@define-color noti-bg-hover rgb(56, 56, 56);
-@define-color noti-bg-focus rgba(68, 68, 68, 0.6);
+@define-color cc-bg rgba(27, 58, 89, 0.3);
+@define-color noti-border-color rgba(0, 0, 0, 0.15);
+@define-color noti-bg rgb(96, 160, 213);
+@define-color noti-bg-hover rgb(117, 183, 237);
+@define-color noti-bg-focus rgba(117, 183, 237, 0.6);
 @define-color noti-close-bg rgba(255, 255, 255, 0.1);
 @define-color noti-close-bg-hover rgba(255, 255, 255, 0.15);
 
