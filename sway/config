@@ -31,7 +31,7 @@ set $menu $rofi_cmd -show combi -combi-modes drun#run -modes combi
 #
 # Default wallpaper (more resolutions are available in /usr/share/backgrounds/sway/)
 # Requires: desktop-backgrounds-compat, swaybg
-output * bg /home/egganto/Downloads/rin.jpg fill
+output * bg ~/Pictures/blackspace.gif fill
 #
 # Example configuration:
 #
@@ -228,7 +228,7 @@ gaps outer 4
 
 # Window border
 default_border pixel 2
-client.focused "#1f4c8a" "#1f4c8a" "#1f4c8a" "#1f4c8a"
+client.focused "#FFFFFF" "#FFFFFF" "#FFFFFF" "#FFFFFF"
 
 # Font
 font "JetBrains Nerd Font Mono" 12
